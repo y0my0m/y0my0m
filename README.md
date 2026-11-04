@@ -43,16 +43,6 @@
 
 ###
 
-<div data-importer="techs" align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
-</div>
-
-###
-
 <div data-importer="music" align="left">
   <a href="https://open.spotify.com/user/3137uxbode4k6aizpwmn6ylhuj3q">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3137uxbode4k6aizpwmn6ylhuj3q&count=3&unique=true" alt="Spotify recently played"  />
