@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Im a 13yo developer, Learning things from scratch.<br><br>-Im Sri Lankan<br>-Arch user Btw. And Linux overall</h3>
+<h3 data-importer="text" align="left">Im a 13yo developer, Learning things from scratch.<br><br>-Im Sri Lankan 🇱🇰<br>-Arch user Btw. And Mac</h3>
 
 ###
 
